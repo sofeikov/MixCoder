@@ -4,6 +4,6 @@ project:
 website:
   title: "MixCoder"
   site-url: "https://sofeikov.github.io/MixCoder"
-  description: "MicCoder allows using auto-encoder framework with tabular data"
+  description: "MixCoder allows using auto-encoder framework with tabular data"
   repo-branch: main
   repo-url: "https://github.com/sofeikov/MixCoder"
